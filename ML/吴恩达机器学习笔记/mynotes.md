@@ -13,6 +13,8 @@
 定义：没有Y，只通过X进行分析并识别模式。 <br>
 
 ## 单变量线性回归
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$$ a $$ 
 
 
 ## 线性代数回顾
