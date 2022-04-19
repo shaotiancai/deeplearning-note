@@ -6,6 +6,7 @@
   mynotes ref : <br>
 + Machine Learning Yearning，这本书偏基础，工程方向，注重实际中的调参
 + deeplearning.ai，对传统机器学习、CV、NLP的一个入门了解
++ __[深度学习面面观](https://www.heywhale.com/mw/project/5e20243e2823a10036b542da)__
 
 ## 李沐动手学深度学习系列
 + __[动手学深度学习 Dive into Deep Learning](http://zh.gluon.ai/)__
