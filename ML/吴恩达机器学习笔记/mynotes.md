@@ -13,7 +13,13 @@
 定义：没有Y，只通过X进行分析并识别模式。 <br>
 
 ## 单变量线性回归
-![](http://latex.codecogs.com/svg.latex? h(x) = a + b)
+### 模型表示
+![](http://latex.codecogs.com/svg.latex?h_\\theta(x)=\\theta_0+\\theta_1x)
+### 代价函数
+**cost funtion:** <br>
+![](http://latex.codecogs.com/svg.latex?J(\\theta_0,\\theta_1)=\\frac{1}{2m}\\sum_{i=1}^{m}(h_\\theta(x^{(i)})-y^{(i)})^2) <br>
+**Goal:** <br>
+![](http://latex.codecogs.com/svg.latex?\\mathop{minimize}\\limits_{\\theta_0,\\theta_1}J(\\theta_0,\\theta_1))
 
 
 ## 线性代数回顾
