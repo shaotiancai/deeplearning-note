@@ -1,9 +1,9 @@
 # 机器学习资料准备以及自学方法
 ## 吴恩达系列
 + CS229, 网易云课堂有2008年的课堂和讲义 <br>
-  lectures ref: https://study.163.com/course/courseMain.htm?courseId=1210076550  <br>
-  notes ref: http://www.ai-start.com/ml2014/<br>
-  mynotes ref: https://github.com/shaotiancai/dlml/blob/master/ML/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/mynotes.md <br>
+  __[lectures ref](https://study.163.com/course/courseMain.htm?courseId=1210076550)__ <br>
+  __[notes ref](http://www.ai-start.com/ml2014/)__ <br>
+  __[mynotes ref](https://github.com/shaotiancai/dlml/blob/master/ML/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/mynotes.md)__<br>
 + Machine Learning Yearning，这本书偏基础，工程方向，注重实际中的调参
 + deeplearning.ai，对传统机器学习、CV、NLP的一个入门了解
 + __[深度学习面面观](https://www.heywhale.com/mw/project/5e20243e2823a10036b542da)__
