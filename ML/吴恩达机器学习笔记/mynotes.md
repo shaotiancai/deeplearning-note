@@ -23,3 +23,12 @@
 
 
 ## 线性代数回顾
+
+## 多变量线性回归
+### 模型表示
+![](http://latex.codecogs.com/svg.latex?h_\\theta(x)=\\theta_0+\\theta_1x_1+\\theta_2x_2+\\dots+\\theta_nx_n)
+### 代价函数
+**cost funtion:** <br>
+![](http://latex.codecogs.com/svg.latex?J(\\theta_0,\\theta_1\\dots\\theta_n)=\\frac{1}{2m}\\sum_{i=1}^{m}(h_\\theta(x^{(i)})-y^{(i)})^2) <br>
+**Goal:** <br>
+![](http://latex.codecogs.com/svg.latex?\\mathop{minimize}\\limits_{\\theta_0,\\theta_1,\\dots\\theta_n}J(\\theta_0,\\theta_1,\\dots\\theta_n))
