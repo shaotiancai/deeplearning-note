@@ -9,7 +9,7 @@
 + __[深度学习面面观](https://www.heywhale.com/mw/project/5e20243e2823a10036b542da)__
 
 ## 李沐动手学深度学习系列
-+ __[动手学深度学习 Dive into Deep Learning](http://zh.gluon.ai/)__
++ __[动手学深度学习 Dive into Deep Learning](https://zh-v2.d2l.ai/)__
 
 ## 其他公开课
 + CS231N， 最好的深度学习公开课
