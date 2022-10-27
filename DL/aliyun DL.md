@@ -27,4 +27,12 @@
 ### 人工智能当前的关键技术
 ![image](https://user-images.githubusercontent.com/47166091/198289300-ba2c7e45-58ec-4bdc-8f55-88c697f21fb1.png)
 
+### 机器学习、神经网络及深度学习之间的关系
+![image](https://user-images.githubusercontent.com/47166091/198290542-75e283dd-28ee-4c90-8267-bc4833d8eb31.png)
+
+## 深度学习崛起背景
+### 算力、算法、算料
+### 大数据与小数据
+![image](https://user-images.githubusercontent.com/47166091/198294389-7365e78a-91cc-4596-8145-48638d825bfb.png)
+
 
