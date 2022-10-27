@@ -34,5 +34,29 @@
 ### 算力、算法、算料
 ### 大数据与小数据
 ![image](https://user-images.githubusercontent.com/47166091/198294389-7365e78a-91cc-4596-8145-48638d825bfb.png)
+### 数据众包
+![image](https://user-images.githubusercontent.com/47166091/198295052-4c05fcff-325b-4b06-9c01-4dc795bca16a.png)
+### GPU发展史
+![image](https://user-images.githubusercontent.com/47166091/198296879-4404748e-447f-4a00-a837-267f56957242.png)
+### 人工智能相关芯片特点与应用场景
+![image](https://user-images.githubusercontent.com/47166091/198297150-10eaa409-0753-4810-9d19-94303be0f866.png)
+
+
+## 深度学习典型应用与研究方向之计算机视觉
+![image](https://user-images.githubusercontent.com/47166091/198298874-6a00cbdf-66f3-41de-9e97-56810833c4a3.png)
+
+![image](https://user-images.githubusercontent.com/47166091/198299728-46b1c876-edbb-4270-965a-e9f0382f97f7.png)
+
+
+## 神经网络
+### MP模型
+![image](https://user-images.githubusercontent.com/47166091/198306516-be32d304-7019-482d-903e-d4561dc96d1c.png)
+
+### 单层感知机
+![image](https://user-images.githubusercontent.com/47166091/198307882-b6ea6c24-b39a-4bbb-b995-11a987a5fbde.png)
+
+
+
+
 
 
