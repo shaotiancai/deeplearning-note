@@ -55,6 +55,13 @@
 ### 单层感知机
 ![image](https://user-images.githubusercontent.com/47166091/198307882-b6ea6c24-b39a-4bbb-b995-11a987a5fbde.png)
 
+### 单层感知器的缺陷
+![image](https://user-images.githubusercontent.com/47166091/198317978-fe295d6c-0bda-44be-a250-f5544540eacb.png)
+
+### 多层感知器
+![image](https://user-images.githubusercontent.com/47166091/198320401-a32a85a9-5b83-4ee9-a47f-7913c6569d07.png)
+
+
 
 
 
