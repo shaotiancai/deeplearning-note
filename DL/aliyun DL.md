@@ -61,6 +61,13 @@
 ### 多层感知器
 ![image](https://user-images.githubusercontent.com/47166091/198320401-a32a85a9-5b83-4ee9-a47f-7913c6569d07.png)
 
+### 神经网络的局限性
+![image](https://user-images.githubusercontent.com/47166091/198883345-8690f67e-bb73-4ce3-9a4d-c341fc65e79d.png)
+![image](https://user-images.githubusercontent.com/47166091/198883360-a3fbdd58-02da-4037-991d-f72664c09c50.png)
+
+## 卷积神经网络
+
+
 
 
 
