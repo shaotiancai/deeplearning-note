@@ -79,6 +79,31 @@
 
 ![image](https://user-images.githubusercontent.com/47166091/201284518-4e68c7e3-524b-4a61-9da1-043af9e9277b.png)
 
+![image](https://user-images.githubusercontent.com/47166091/201285634-d12ad1c1-840f-4d0f-946b-2d9d78a68e32.png)
+
+![image](https://user-images.githubusercontent.com/47166091/201285823-23b2ae38-029b-4694-8d48-c20ea1dc8437.png)
+
+![image](https://user-images.githubusercontent.com/47166091/201286140-80a44334-10e6-42af-ba2f-7c9e6d6876fa.png)
+
+![image](https://user-images.githubusercontent.com/47166091/201286497-f93494fa-826a-4586-a11c-a264af40666c.png)
+
+### 初始化
+![image](https://user-images.githubusercontent.com/47166091/201287275-ef644cca-a7dc-4792-afd7-b92b3da09022.png)
+
+![image](https://user-images.githubusercontent.com/47166091/201287572-95eb875a-7835-468e-be11-a3175b37072a.png)
+
+
+## 深度学习优化
+### 标准化方法
+![image](https://user-images.githubusercontent.com/47166091/201296289-16d51735-2851-44f7-8ada-2b0071452876.png)
+
+![image](https://user-images.githubusercontent.com/47166091/201297995-bdd42b17-d690-46b7-9564-824114c0764c.png)
+
+
+
+### 池化
+
+
 
 
 
