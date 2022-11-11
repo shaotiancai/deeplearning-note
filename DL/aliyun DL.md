@@ -67,6 +67,17 @@
 
 ## 卷积神经网络
 
+### AlexNets工程技巧
+（第一个现代深度卷积神经网络）
+![image](https://user-images.githubusercontent.com/47166091/201281562-37f58227-876d-48d8-8426-a4544f66a0ad.png)
+
+## 激活函数与参数初始化
+### 激活函数
+![image](https://user-images.githubusercontent.com/47166091/201282819-39eae9be-dc2d-4496-a458-e581bc435076.png)
+
+![image](https://user-images.githubusercontent.com/47166091/201283738-8f661c0c-3c6a-43e3-9037-d831071411b9.png)
+
+![image](https://user-images.githubusercontent.com/47166091/201284518-4e68c7e3-524b-4a61-9da1-043af9e9277b.png)
 
 
 
