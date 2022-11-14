@@ -99,9 +99,31 @@
 
 ![image](https://user-images.githubusercontent.com/47166091/201297995-bdd42b17-d690-46b7-9564-824114c0764c.png)
 
+![image](https://user-images.githubusercontent.com/47166091/201298549-f396b38f-884d-438c-833f-4f3c2119efc0.png)
+
 
 
 ### 池化
+![image](https://user-images.githubusercontent.com/47166091/201300204-ff75eeca-feed-4564-9005-894bcc8d9c6d.png)
+
+
+### 泛化
+
+
+
+### 正则化
+![image](https://user-images.githubusercontent.com/47166091/201303722-8a33e980-7608-42aa-92ef-56b4b14e4593.png)
+
+![image](https://user-images.githubusercontent.com/47166091/201304223-8981f761-0b68-40b7-bc9e-4f7dc0ee1893.png)
+
+![image](https://user-images.githubusercontent.com/47166091/201304599-15c8db22-07da-4ded-8cba-9dae147f081d.png)
+
+
+### 最优化方法
+![image](https://user-images.githubusercontent.com/47166091/201305668-f82309a7-b390-4618-908f-0430e9f5e3a8.png)
+
+
+
 
 
 
