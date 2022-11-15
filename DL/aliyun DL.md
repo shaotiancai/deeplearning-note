@@ -66,62 +66,29 @@
 ![image](https://user-images.githubusercontent.com/47166091/198883360-a3fbdd58-02da-4037-991d-f72664c09c50.png)
 
 ## 卷积神经网络
+### 卷积结构单元——输入输出计算
+![image](https://user-images.githubusercontent.com/47166091/200216382-7c66cc1a-a32b-473c-b1ff-77e0fdb5f5cf.png)
 
-### AlexNets工程技巧
-（第一个现代深度卷积神经网络）
-![image](https://user-images.githubusercontent.com/47166091/201281562-37f58227-876d-48d8-8426-a4544f66a0ad.png)
+### 卷积神经网络的重要思想——局部连接
+![image](https://user-images.githubusercontent.com/47166091/200218415-15edc2b7-85db-4f47-bf64-4e942f226e6d.png)
 
-## 激活函数与参数初始化
-### 激活函数
-![image](https://user-images.githubusercontent.com/47166091/201282819-39eae9be-dc2d-4496-a458-e581bc435076.png)
+### 卷积神经网络的重要思想——权重共享
+![image](https://user-images.githubusercontent.com/47166091/200218532-dc23156d-f62c-4d2e-8c3f-0fd5c20dceeb.png)
 
-![image](https://user-images.githubusercontent.com/47166091/201283738-8f661c0c-3c6a-43e3-9037-d831071411b9.png)
-
-![image](https://user-images.githubusercontent.com/47166091/201284518-4e68c7e3-524b-4a61-9da1-043af9e9277b.png)
-
-![image](https://user-images.githubusercontent.com/47166091/201285634-d12ad1c1-840f-4d0f-946b-2d9d78a68e32.png)
-
-![image](https://user-images.githubusercontent.com/47166091/201285823-23b2ae38-029b-4694-8d48-c20ea1dc8437.png)
-
-![image](https://user-images.githubusercontent.com/47166091/201286140-80a44334-10e6-42af-ba2f-7c9e6d6876fa.png)
-
-![image](https://user-images.githubusercontent.com/47166091/201286497-f93494fa-826a-4586-a11c-a264af40666c.png)
-
-### 初始化
-![image](https://user-images.githubusercontent.com/47166091/201287275-ef644cca-a7dc-4792-afd7-b92b3da09022.png)
-
-![image](https://user-images.githubusercontent.com/47166091/201287572-95eb875a-7835-468e-be11-a3175b37072a.png)
+### 卷积神经网络误差反向传播
+![image](https://user-images.githubusercontent.com/47166091/200219289-08daaefa-4df9-4e73-aabe-fe02ef9fe024.png)
 
 
-## 深度学习优化
-### 标准化方法
-![image](https://user-images.githubusercontent.com/47166091/201296289-16d51735-2851-44f7-8ada-2b0071452876.png)
+## 优化
+### 优化目标
+![image](https://user-images.githubusercontent.com/47166091/201599938-56e2ab0d-8e62-4b72-85d7-4ae969fad8ab.png)
 
-![image](https://user-images.githubusercontent.com/47166091/201297995-bdd42b17-d690-46b7-9564-824114c0764c.png)
+![image](https://user-images.githubusercontent.com/47166091/201601517-a6f3315f-09c3-4b98-8c97-37f70eedab9c.png)
 
-![image](https://user-images.githubusercontent.com/47166091/201298549-f396b38f-884d-438c-833f-4f3c2119efc0.png)
+### 评估指标
+![image](https://user-images.githubusercontent.com/47166091/201601750-c55d862d-7669-4389-9225-f1e6ea4db646.png)
 
-
-
-### 池化
-![image](https://user-images.githubusercontent.com/47166091/201300204-ff75eeca-feed-4564-9005-894bcc8d9c6d.png)
-
-
-### 泛化
-
-
-
-### 正则化
-![image](https://user-images.githubusercontent.com/47166091/201303722-8a33e980-7608-42aa-92ef-56b4b14e4593.png)
-
-![image](https://user-images.githubusercontent.com/47166091/201304223-8981f761-0b68-40b7-bc9e-4f7dc0ee1893.png)
-
-![image](https://user-images.githubusercontent.com/47166091/201304599-15c8db22-07da-4ded-8cba-9dae147f081d.png)
-
-
-### 最优化方法
-![image](https://user-images.githubusercontent.com/47166091/201305668-f82309a7-b390-4618-908f-0430e9f5e3a8.png)
-
+### 数据增强
 
 
 
